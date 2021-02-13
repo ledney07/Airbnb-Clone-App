@@ -1,0 +1,9 @@
+.home__section {
+  margin-top: 30px;
+  display: flex;
+}
+
+.home__wrapper {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
